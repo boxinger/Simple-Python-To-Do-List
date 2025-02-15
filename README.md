@@ -1,4 +1,4 @@
-```markdown
+```markdown```
 # Simple Python To-Do List
 
 A simple command-line to-do list application built using Python. This app allows users to:
