@@ -1,2 +1,15 @@
-# Simple-Python-To-Do-List
-This project is a basic to-do list application where users can add, remove, and mark tasks as completed, all from the command line interface. It allows for easy management of tasks and provides an interactive menu to perform various actions. The project demonstrates the use of Python classes, lists, and user input handling.
+# Simple Python To-Do List
+
+A simple command-line to-do list application built using Python. This app allows users to:
+
+- Add tasks to the to-do list
+- Remove tasks
+- Mark tasks as completed
+- View all tasks
+
+## How to Use
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/simple-python-todo-list.git
