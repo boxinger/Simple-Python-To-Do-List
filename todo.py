@@ -1,6 +1,33 @@
+import json
+import os
+
 class TodoApp:
     def __init__(self):
-        self.tasks = []
+        # self.tasks = []
+        
+        # check folder "data" exists or not
+        path = os.path.abspath(os.path.dirname(__file__)) + "/"
+        if not os.path.exists(path + "data"):
+            os.makedirs(path + "data")
+
+        # try to load history task from file
+        try:
+            with open(path + "data/tasks.json", "r") as f:
+                self.tasks = json.load(f)
+        except FileNotFoundError:
+            self.tasks = []
+        except:
+            print("Load tasks failed")
+
+    def __del__(self):
+        # save history tasks
+        path = os.path.abspath(os.path.dirname(__file__)) + "/"
+        try:
+            with open(path + "data/tasks.json", "w") as f:
+                json.dump(self.tasks, f)
+        except:
+            print("Save tasks failed")
+
 
     def add_task(self, task):
         self.tasks.append({"task": task, "completed": False})
